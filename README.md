@@ -40,7 +40,7 @@ Skill |
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=masudKhanGit&count_private=true&theme=tokyonight&hide=contribs,prs)
+![masudKhanGit github stats](https://github-readme-stats.vercel.app/api?username=masudKhanGit&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <details>
 <summary>

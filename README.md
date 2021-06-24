@@ -13,9 +13,9 @@ I'm Md. Masud Khan a Full Stack Web Developer. I Spend most of time coding outst
 
 ## My Skills 
 
-Skill | 
------------- | 
-:heavy_check_mark: HTML | 
+Skill | Designe
+------------ | -----------
+:heavy_check_mark: HTML | :heavy_check_mark: UI/UX
 :heavy_check_mark: CSS | 
 :heavy_check_mark: SASS |
 :heavy_check_mark: Bootstrap |

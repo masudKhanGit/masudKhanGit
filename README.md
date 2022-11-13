@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Masud Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudkhangit&label=Profile%20views&color=0e75b6&style=flat" alt="masudkhangit" /> </p>
-<h3 align="center">I'm Md. Masud Khan a Full Stack Web Developer And ANDROID/IOS Application Developer. I Spend most of time coding outstanding projects or learning new programming language.</h3>
+<h3 align="center">I'm Md. Masud Khan a Full Stack Web Developer. I Spend most of time coding outstanding projects or learning new programming language.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <br />
 
